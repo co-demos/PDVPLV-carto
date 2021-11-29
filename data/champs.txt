@@ -1,0 +1,12 @@
+//Champs PDV
+
+tot_log_14_18 : nombre total de logements 	
+tot_lv_14_18 : nombre total de logements vacants	
+tx_lv_14_18 : taux de logements vacants	
+tot_lv_mi_14_18	: nombre de logements individuels vacants
+tx_lv_mi_14_18	: taux de logements individuels vacants / vacance totale
+tot_lv_app_14_18 : nombre de logements collectifs vacants	
+tx_lv_app_14_18	: taux de logements collectifs vacants / vacance totale
+nb_lgt_tot_crees : nombre total de logements neufs crées	
+nb_lgt_ind_crees : nombre de logements individuels crées	
+nb_lgt_col_crees : nombre de logements collectifs crées
